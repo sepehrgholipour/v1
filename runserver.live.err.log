@@ -1,0 +1,26 @@
+[03/Oct/2026 13:24:54] "GET / HTTP/1.1" 200 9522
+[03/Oct/2026 13:24:54,237] - Broken pipe from ('127.0.0.1', 53218)
+[03/Oct/2026 13:25:00] "GET / HTTP/1.1" 200 9522
+[03/Oct/2026 13:29:46] "GET / HTTP/1.1" 200 9522
+[03/Oct/2026 13:29:46] "GET /fire-insurance/ HTTP/1.1" 200 3968
+[03/Oct/2026 13:29:46,662] - Broken pipe from ('127.0.0.1', 53303)
+[03/Oct/2026 13:29:52] "GET / HTTP/1.1" 200 9522
+[03/Oct/2026 13:29:52] "GET /fire-insurance/ HTTP/1.1" 200 3968
+[03/Oct/2026 13:29:52,969] - Broken pipe from ('127.0.0.1', 53325)
+[03/Oct/2026 13:30:20] "GET /fire-insurance/ HTTP/1.1" 200 3968
+[03/Oct/2026 13:30:22] "GET / HTTP/1.1" 200 9522
+[03/Oct/2026 13:30:30] "GET /body-insurance/ HTTP/1.1" 200 4506
+[03/Oct/2026 13:30:32] "GET / HTTP/1.1" 200 9522
+[03/Oct/2026 13:35:43] "GET / HTTP/1.1" 200 9522
+[03/Oct/2026 13:36:21] "GET / HTTP/1.1" 200 9522
+[03/Oct/2026 13:36:21] "GET /fire-insurance/ HTTP/1.1" 200 3968
+[03/Oct/2026 13:36:21,215] - Broken pipe from ('127.0.0.1', 53308)
+[03/Oct/2026 13:40:01] "GET /fire-insurance/ HTTP/1.1" 200 3968
+[03/Oct/2026 13:40:01] "GET /elevator-insurance/ HTTP/1.1" 200 3742
+[03/Oct/2026 13:40:01,829] - Broken pipe from ('127.0.0.1', 50712)
+[03/Oct/2026 13:40:16] "GET /fire-insurance/ HTTP/1.1" 200 3968
+[03/Oct/2026 13:40:16] "GET /elevator-insurance/ HTTP/1.1" 200 3742
+[03/Oct/2026 13:40:16,136] - Broken pipe from ('127.0.0.1', 52678)
+[03/Oct/2026 13:40:23] "GET /fire-insurance/ HTTP/1.1" 200 3968
+[03/Oct/2026 13:40:23,587] - Broken pipe from ('127.0.0.1', 65053)
+[03/Oct/2026 13:40:45] "GET / HTTP/1.1" 200 9522
